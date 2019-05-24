@@ -1,0 +1,10 @@
+~8!6
+.bash_historyUT
+Le mot de passePK
+suite.zipUT
+de cette archivePK
+prime.txtUT
+est : DGSE{t.D=@Bx^A%n9FQB~_VL7Zn8z=:K^4ikE=j0EGHqI}PK
+public.keyUT
+motDePasseGPG.txt.encUT
+lsb_RGB.png.encUT
